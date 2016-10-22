@@ -1,0 +1,11 @@
+header {
+	background-color: #E8B952;
+}
+
+.headerRow h1 {
+	margin: 10px 0 5px 0;
+}
+
+.headerRow p {
+	margin: 0 0 10px 0;
+}
