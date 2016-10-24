@@ -2,10 +2,30 @@ header {
 	background-color: #E8B952;
 }
 
+.headerRow {
+	margin-bottom: 30px;
+}
+
 .headerRow h1 {
 	margin: 10px 0 5px 0;
 }
 
 .headerRow p {
 	margin: 0 0 10px 0;
+}
+
+.row img {
+	width: 100%;
+	max-width: 100%;
+	display: block;
+	padding: 0;
+}
+
+.card {
+	border: 1px solid lightgrey;
+	margin-bottom: 20px;
+}
+
+.card p, .card h3 {
+	padding: 0 20px;
 }
